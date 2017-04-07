@@ -1,2 +1,2 @@
 # ASmallGame
-A Small Game 
+This is a small game,my entertainment works  
